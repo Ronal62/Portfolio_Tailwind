@@ -16,7 +16,7 @@ font-family: 'Inter',sans-serif;
     @apply uppercase;
     }
     .hamburger-line {
-    @apply w-[30px] h-[2px] my-2 block bg-dark
+    @apply w-[30px] h-[2px] my-2 block bg-dark dark:bg-white
     }
     .hamburger-active  > span:nth-child(1) {
     @apply rotate-45;
